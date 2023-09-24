@@ -1,0 +1,15 @@
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\bin\Debug\net7.0-windows\PracticaWinForm.exe
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\bin\Debug\net7.0-windows\PracticaWinForm.deps.json
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\bin\Debug\net7.0-windows\PracticaWinForm.runtimeconfig.json
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\bin\Debug\net7.0-windows\PracticaWinForm.dll
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\bin\Debug\net7.0-windows\PracticaWinForm.pdb
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.csproj.AssemblyReference.cache
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.AssemblyInfoInputs.cache
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.AssemblyInfo.cs
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.csproj.CoreCompileInputs.cache
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.dll
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\refint\PracticaWinForm.dll
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.pdb
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\PracticaWinForm.genruntimeconfig.cache
+C:\Users\El pepe\Desktop\web\c#\PracticaWinForm\obj\Debug\net7.0-windows\ref\PracticaWinForm.dll
